@@ -1,6 +1,6 @@
 # CTI-AN-2
-Ghid cu materiale pentru anul 2 C + Ti
-La fiecare materie va scie unde a fost facuta si daca este comuna sau nu.
+Ghid cu materiale pentru anul 2 C + Ti. 
+La fiecare materie va scrie unde a fost facuta si daca este comuna sau nu.
 ## Semestru 1
 ### SDA - C + Ti
 ### RC - C + Ti
